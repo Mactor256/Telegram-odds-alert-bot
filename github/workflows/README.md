@@ -50,9 +50,9 @@ cp .env.example .env
 
 Edit:
 
-8878405055:AAGU1DBB9vpJRZEF1V-YIY2eOpZ7aPlsWOY
+BOT_TOKEN
 
-515ddbe6eb13217dbffd702188918f14
+ODDS_API_KEY
 
 
 
